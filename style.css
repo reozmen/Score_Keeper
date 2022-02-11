@@ -31,3 +31,9 @@ button {
 #win {
     background-image: url("./havai-fisek.gif");
 }
+
+#message {
+    text-align: center;
+    font-size: 5vw;
+    color: white;
+}
